@@ -240,6 +240,3 @@
     download.style.display = 'inline';
   }
 </script>
-
-</body>
-</html>
