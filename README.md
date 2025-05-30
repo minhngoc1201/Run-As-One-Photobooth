@@ -143,12 +143,11 @@
 
   <!-- Frame PNG -->
   <div class="frame-option-container">
-    <img class="frame-option" 
-         src="https://cdn.saigonnewport.com.vn/uploads/images/2025/05/29/meet-tribe-06-1-683817714cf39.png"
-         data-url="https://cdn.saigonnewport.com.vn/uploads/images/2025/05/29/meet-tribe-06-1-683817714cf39.png" 
-         alt="Khung 1">
-    <div class="frame-label">🏞 Khung 1</div>
-  </div>
+  <img class="frame-option" 
+       src="./images/Frame-test-RAS.png"
+       data-url="./images/Frame-test-RAS.png" 
+       alt="Khung RAS">
+  <div class="frame-label">🏞 Khung RAS</div>
 </div>
 
 <div class="video-container">
