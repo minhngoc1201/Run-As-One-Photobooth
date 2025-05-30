@@ -144,8 +144,8 @@
   <!-- Frame PNG -->
   <div class="frame-option-container">
   <img class="frame-option" 
-       src="./images/Frame-test-RAS.png"
-       data-url="./images/Frame-test-RAS.png" 
+       src="https://github.com/minhngoc1201/Run-As-One-Photobooth/blob/main/Frame-test-RAS.png"
+       data-url="https://github.com/minhngoc1201/Run-As-One-Photobooth/blob/main/Frame-test-RAS.png" 
        alt="Khung RAS">
   <div class="frame-label">🏞 Khung RAS</div>
 </div>
