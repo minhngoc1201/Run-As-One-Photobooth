@@ -144,8 +144,8 @@
   <!-- Frame PNG -->
   <div class="frame-option-container">
   <img class="frame-option" 
-       src="https://github.com/minhngoc1201/Run-As-One-Photobooth/blob/8fb6eca139fc6c1deda6623414c7b7690d727f4a/Frame-test-RAS.png"
-       data-url="https://github.com/minhngoc1201/Run-As-One-Photobooth/blob/8fb6eca139fc6c1deda6623414c7b7690d727f4a/Frame-test-RAS.png" 
+       src="https://raw.githubusercontent.com/minhngoc1201/Run-As-One-Photobooth/8fb6eca139fc6c1deda6623414c7b7690d727f4a/Frame-test-RAS.png"
+       data-url="https://raw.githubusercontent.com/minhngoc1201/Run-As-One-Photobooth/8fb6eca139fc6c1deda6623414c7b7690d727f4a/Frame-test-RAS.png" 
        alt="Khung RAS">
   <div class="frame-label">🏞 Khung RAS</div>
 </div>
